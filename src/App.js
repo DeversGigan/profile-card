@@ -6,7 +6,7 @@ function ProfileCard() {
     <div className="profile-card">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/330px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg" alt="Steve Jobs" />
       
-      <h1>Steve Jobs</h1>
+      <h1>Ariel Noah</h1>
       <p className="title">Co-founder of Apple Inc.</p>
       
       <p className="bio">
